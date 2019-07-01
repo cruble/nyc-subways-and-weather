@@ -1,4 +1,3 @@
 # nyc-subways-and-weather
 
-hi chad!
-Hi
+Predicting subway ridership in NYC based on weather.
